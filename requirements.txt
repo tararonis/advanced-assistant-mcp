@@ -1,3 +1,4 @@
 pandas
 openpyxl
 fastmcp<=2.13.3
+mcp<1.23
